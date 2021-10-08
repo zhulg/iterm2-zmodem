@@ -1,5 +1,5 @@
 # iterm2-zmodem
-iterm2-zmodem的依赖脚本
+备份iterm2-zmodem的依赖脚本,用于MAC在云服务器上上传和下载文件，rz和sz进行上传和下载，可以用于包含跳板机的机器。
 
 ## 配置
 - 打开一个iTerm终端，点击菜单的Profiles，选择某个profile之后然后继续选择advanced → triggers，添加triggers。
